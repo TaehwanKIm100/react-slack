@@ -1,3 +1,7 @@
 {
-  "serverPort": 8080
+  "serverPort": 8080,
+  "mysqlHost": "localhost",
+  "mysqlUser": "root",
+  "mysqlPassword": "rlaxoghks0!",
+  "mysqlDatabase": "slack"
 }

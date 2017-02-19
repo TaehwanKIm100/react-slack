@@ -6,6 +6,7 @@
   "dependencies": {
     "config": "^1.25.1",
     "pretty-data": "^0.40.0",
+    "promise-mysql": "^3.0.0",
     "restify": "^4.3.0"
   },
   "devDependencies": {
