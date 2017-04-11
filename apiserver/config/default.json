@@ -2,6 +2,18 @@
   "serverPort": 8080,
   "mysqlHost": "localhost",
   "mysqlUser": "root",
-  "mysqlPassword": "rlaxoghks0!",
-  "mysqlDatabase": "slack"
+  "mysqlPassword": "1234",
+  "mysqlDatabase": "slack",
+  "responseCode": {
+    "OK": 200,
+    "CREATED": 201,
+    "ACCEPTED": 202,
+    "NO_CONTENT": 204,
+    "BAD_REQUEST": 400,
+    "UNAUTHORIZED": 401,
+    "FORBIDDEN": 403,
+    "NOT_FOUND": 404,
+    "DUPLICATED": 480,
+    "INTERNAL_SERVER_ERROR": 500
+  }
 }
